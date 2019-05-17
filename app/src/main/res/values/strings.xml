@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BachApp</string>
+    <string name="image">BachApp</string>
+    <string name="email_id">Email</string>
+    <string name="password">Password</string>
+    <string name="create_a_new_account">Eres nuevo?</string>
+    <string name="login">Login</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="failed">Error</string>
+    <string name="default_web_client_id2">ID</string>
+    <string name="msg_subscribed">se armo</string>
+    <string name="msg_subscribe_failed">no se armo</string>
+
+
+</resources>

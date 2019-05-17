@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886746481983",
+    "firebase_url": "https://terremovil-9e0ba.firebaseio.com",
+    "project_id": "terremovil-9e0ba",
+    "storage_bucket": "terremovil-9e0ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886746481983:android:87fa51557186f662",
+        "android_client_info": {
+          "package_name": "com.example.terremovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886746481983-2qdvbe7cn8f79uvn5vkh6s1ob427cor2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.terremovil",
+            "certificate_hash": "3d1160bdc1635dab6c5f6c2afc375e4df1d5e355"
+          }
+        },
+        {
+          "client_id": "886746481983-41vnf5ii3pjt93rrkh8h2k795rnst7ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMCIAHWYC2Oow9CA5OPNAkfu_Jj2gG9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886746481983-41vnf5ii3pjt93rrkh8h2k795rnst7ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
